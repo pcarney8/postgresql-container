@@ -1,0 +1,2 @@
+CREATE TABLE pdsdb;
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
